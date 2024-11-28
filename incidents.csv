@@ -1,0 +1,5 @@
+data, tipo_incidente, gravidade, localizacao, resposta, duracao
+2023-01-01, "Phishing", "Alto", "São Paulo", "Investigação", 2
+2023-01-02, "Malware", "Médio", "Rio de Janeiro", "Remoção", 3
+2023-01-03, "DDoS", "Baixo", "São Paulo", "Monitoramento", 1
+2023-01-04, "Phishing", "Alto", "Belo Horizonte", "Investigação", 4
